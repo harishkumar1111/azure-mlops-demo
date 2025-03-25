@@ -1,0 +1,5 @@
+azureml-core
+azureml-core
+azure-cli
+pandas
+sklearn
